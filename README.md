@@ -1,2 +1,2 @@
-# Teste_Exercicio_JobRotation_RibeiraoPreto
- Exercicio para teste de estágio. Job Rotation - Ribeirão Preto
+# Teste_Exercicio
+ Exercicios teste para uma vaga de estágio
